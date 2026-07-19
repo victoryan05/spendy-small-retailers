@@ -55,6 +55,9 @@ Retailer sees retention → issues more cards
 | 04 | [Business model](docs/04-business-model.md) | How Spendy charges small retailers; the recommendation |
 | 05 | [Go-to-market](docs/05-go-to-market.md) | University-precinct launch, referral engine, pilot plan |
 | 06 | [AU compliance](docs/06-compliance-au.md) | Gift card law, expiry rules, breakage, the regulatory reason for the money-flow choice |
+| 07 | [Platform MVP](docs/07-platform-mvp.md) | What small retailers pay for, ranked; the six MVP screens; what the build involves |
+| 08 | [UI design](docs/08-ui-design.md) | Design system from the Spendy brand, anti-slop rules, per-screen specs |
+| — | [`mock/dashboard.html`](mock/dashboard.html) | Clickable high-fidelity mock of the retailer dashboard — open in any browser |
 
 ## Status
 
